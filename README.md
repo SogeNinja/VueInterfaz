@@ -1,2 +1,2 @@
 # VueInterfaz
-Descargar yo no lo descargo porque ya lo tengo 
+Descargar "app", yo no lo descargo porque ya lo tengo 
